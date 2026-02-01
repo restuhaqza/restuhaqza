@@ -76,19 +76,7 @@ func Intro() *Myself {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=restuhaqza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=restuhaqza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restuhaqza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 ## 📝 Latest Blog Posts
 
@@ -106,15 +94,7 @@ Visit my blog at [restuhaqza.dev](https://restuhaqza.dev) for latest articles on
   </p>
 </details>
 
-<details>
-  <summary>🎯 Tic-Tac-Toe - Challenge yourself!</summary>
-  <br/>
-  <p align="center">
-    <a href="https://marcizhu.github.io/StarTrek-Intro/?text=Restu%20Muzakir%0APlatform%20Engineer%0A%0AAutomating%20Everything">
-      <img src="https://img.shields.io/badge/Play-Tic_Tac_Toe-FF6B6B?style=for-the-badge&logo=game&logoColor=white" alt="Play Tic-Tac-Toe"/>
-    </a>
-  </p>
-</details>
+
 
 ## 🤝 Let's Connect
 
